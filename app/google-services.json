@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "130591484707",
+    "firebase_url": "https://the-movie-diary.firebaseio.com",
+    "project_id": "the-movie-diary",
+    "storage_bucket": "the-movie-diary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130591484707:android:24cace83f7d8c9e84cfa96",
+        "android_client_info": {
+          "package_name": "com.example.themoviediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130591484707-s6m8ktfgi0rd2s9kl8s7r8dh7d1opngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQn0pfQadvYIUZEgzqoZNh7OP-HZkPjJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130591484707-s6m8ktfgi0rd2s9kl8s7r8dh7d1opngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

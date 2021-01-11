@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFreagment"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_local_movies_24"/>
+    <item
+        android:id="@+id/searchFragment"
+        android:title="Search"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item
+        android:id="@+id/watchlistFragment"
+        android:title="Watchlist"
+        android:icon="@drawable/ic_baseline_watch_later_24"/>
+</menu>
